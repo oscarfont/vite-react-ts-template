@@ -73,7 +73,7 @@ export default tseslint.config({
 
 ## Use the template
 ```
-mkdir your-new-shining-project
+mkdir your-new-shining-project && cd your-new-shining-project
 
-pnpm degit https://github.com/oscarfont/vite-react-ts-template.git
+pnpm dlx degit https://github.com/oscarfont/vite-react-ts-template.git
 ```
