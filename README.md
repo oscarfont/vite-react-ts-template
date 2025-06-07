@@ -23,9 +23,6 @@ A modern, fast development template with batteries included! 🚀
 ## Getting Started
 
 ```bash
-# Clone the repository
-git clone [your-repo-url]
-
 # Install dependencies
 pnpm install
 
@@ -72,3 +69,11 @@ export default tseslint.config({
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) - Uses Babel for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) - Uses SWC for Fast Refresh
+
+
+## Use the template
+```
+mkdir your-new-shining-project
+
+pnpm degit https://github.com/oscarfont/vite-react-ts-template.git
+```
