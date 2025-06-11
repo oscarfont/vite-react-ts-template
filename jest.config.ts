@@ -199,7 +199,7 @@ const config: Config = {
               ['swc_mut_cjs_exports', {}],
             ],
           },
-          target: 'es2021',
+          target: 'es2023',
           transform: {
             // Without this, all tests will need to import React into the test
             // file. This enables us to write JSX directly in the test files but

@@ -71,7 +71,7 @@ export default tseslint.config({
 ## Additional Tools
 
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) - Uses SWC for Fast Refresh and compilation
-- Jest with SWC - Ultra-fast test execution with SWC transpilation
+- [@swc/jest](https://github.com/swc-project/pkgs/tree/main/packages/jest) - Ultra-fast test execution with SWC transpilation
 
 ## Use the template
 ```
